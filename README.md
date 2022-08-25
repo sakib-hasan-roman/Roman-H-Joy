@@ -27,4 +27,4 @@ Skills: HTML/ CSS, Saas, Bootstrap, Tailwind Css/ Javascript, Jquery, React Js, 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Roman-H-Joy)  
 
-![Profile views](https://gpvc.arturio.dev/Roman-H-Joy)  
+
