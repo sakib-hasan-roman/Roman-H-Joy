@@ -1,6 +1,11 @@
 ### Hi there 👋, My name is Roman H Joy
 #### Web and Mobile Application Developer.
 ![Web and Mobile Application Developer.](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/273805392_3264810037087448_2490645004229220624_n.jpg?stp=dst-jpg_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=V1aAq1Jtq6IAX9oHcJB&_nc_ht=scontent.fdac24-1.fna&oh=00_AT_F7b7tLfQj3x2-v7_kC24vtot_eDyDJSgvjMsiCpOMCg&oe=630AC249)
+To get something good in life, you have to achieve something good in the past to get something worthy. When you apply for a job in a good company, you apply knowingly about that company, this is natural. right...?
+But, have you ever thought why that company needs you...? Why will they choose you from so many people? Do something in life so that they themselves find you as a suitable candidate for that job.
+
+First of all, I talked a lot about principles, but now I have not introduced myself...
+
 
 I'm  Full stack Web Developer also Mobile Apps Developer works in International job marketplace.
 My experience of web developing is over 7+ years.
