@@ -7,11 +7,11 @@
 To get something good in life, you have to achieve something good in the past to get something worthy. When you apply for a job in a good company, you apply knowingly about that company, this is natural. right...?
 But, have you ever thought why that company needs you...? Why will they choose you from so many people? Do something in life so that they themselves find you as a suitable candidate for that job.
 
-First of all, I talked a lot about principles, but now I have not introduced myself...
+First of all, I have talked about a lot of principles, now I will introduce myself...
 
 
-I'm  Full stack Web Developer also Mobile Apps Developer works in International job marketplace.
-My experience of web developing is over 7+ years.
+Above you must be reading my name and designation, let me introduce the shortcut again. My nickname is Roman and I am a Full stack Web Developer also Mobile Apps Developer works in International job marketplace.
+My experience of web developing is over 8+ years.
 - Trust, confidence and service is my main goals .I don't just build websites, i build to captivate & inform .
 
 Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance. Don't be surprised, it's just I love doing!
