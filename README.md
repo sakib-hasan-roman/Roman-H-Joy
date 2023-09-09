@@ -17,7 +17,24 @@ My experience of web developing is over 8+ years.
 Before coding, one of my passion is connecting with people. That's why I regularly offer 1-2 hours of mentorship for whoever needs some advices and guidance. Don't be surprised, it's just I love doing!
 
 
-Skills: HTML/ CSS, Saas, Bootstrap, Tailwind Css/ Javascript, Jquery, React Js, Vue Js, Node Js, Express Js/ PHP, Laravel/ Python, Django/ Database : Mysql, Mongodb, Firebase
+### Skills: 
+ Languages :
+                                      
+ Frameworks & Libraries :
+                     
+ Databases & ORMs :
+         
+ Tools & Miscellaneous :
+         
+ Applications :
+                     
+ OSs & Platforms :
+         
+Core Language: PHP,Python, Javascript
+Frontend : HTML/ CSS, Bootstrap, Tailwind Css, Jquery, React Js, Next Js, Vue Js
+Backend : Node, Express,
+Database : Mysql, Mongodb, Firebase
+
 
 - 🔭 I’m currently working on Upwork, Seoclerks and Guru 
 - 🌱 I’m currently learning Machine Learning and AI 
